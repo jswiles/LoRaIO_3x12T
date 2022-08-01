@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name connector-ufl)(type KiCad)(uri ${KIPRJMOD}/connector-ufl.pretty)(options "")(descr ""))
+  (lib (name LoraStm32SensBrd_T1)(type KiCad)(uri ${KIPRJMOD}/LoraStm32SensBrd_T1.pretty)(options "")(descr ""))
+)
